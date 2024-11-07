@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228e91"],{daca:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("告警记录")])},u=[],a=t("2877"),l={},r=Object(a["a"])(l,c,u,!1,null,null,null);e["default"]=r.exports}}]);
